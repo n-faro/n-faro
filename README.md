@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n-faro
+- 👋 Hi, I’m Nima
 - 👀 I’m interested in Fast Tech & Fast Cars
 - 🌱 I’m currently learning Cyber Security
 
